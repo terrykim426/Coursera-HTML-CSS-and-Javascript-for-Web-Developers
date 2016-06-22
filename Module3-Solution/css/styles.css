@@ -1,0 +1,27 @@
+#brand {
+	font-size: 30px;
+	color: #164B64
+}
+
+#header-nav{
+	background-color: #E3BF61;
+}
+
+#collapsable-nav li {
+	background-color: #164B64;
+	border: 1px solid black;
+}
+
+#collapsable-nav li a {
+	color: #E3BF61
+}
+
+.content {
+	margin: 5px;
+	padding: 5px;
+	background-color: #FFEDBC
+}
+
+.container {
+	width: 98%;
+}
