@@ -37,7 +37,6 @@ WARNING!!! WARNING!!!
 (function (window) {
 	names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
-console.log(names);
 // STEP 10:
 // Loop over the names array and say either 'Hello' or "Good Bye"
 // using the 'speak' method or either helloSpeaker's or byeSpeaker's
